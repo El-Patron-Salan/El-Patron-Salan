@@ -3,7 +3,7 @@ Joshua: Shall we play a game?
 </h2>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Hello <viewer's_name>, a bit of information about me in docker-compose:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Hello <viewer's_name>, a bit of composed information about me:
 ```yml
 version: "3.9"
 
