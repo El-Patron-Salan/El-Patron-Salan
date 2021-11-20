@@ -22,6 +22,7 @@ services:
     currently_working_on:
       - "Gimme-schedule"
       - "HackMe.NET"
+      - "Terminal-Dictionary"
       
     in_free_time:
       - "Solving CTFs"
