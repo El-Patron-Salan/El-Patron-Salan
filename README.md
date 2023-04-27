@@ -16,20 +16,19 @@ services:
     
     currently_learning:
       - "C++"
-      - "Azure"
+      - "AWS"
       - "IT Security"
     
     currently_working_on:
-      - "Gimme-schedule"
-      - "HackMe.NET"
-      - "Console-Dictionary"
+      - IoT
+      - Personal projects
       
     in_free_time:
       - "Solving CTFs"
-      - "Writing the personal app in Flutter"
+      - "NPC life tasks"
       
     environment:
-      OS: 'Unix/Linux'
+      OS: 'Unix/Linux/BSD/Windows'
 ```
     
 
