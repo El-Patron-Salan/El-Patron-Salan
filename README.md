@@ -11,7 +11,7 @@ services:
   profile_readme:
     # Personal data
     name: El-Patron-Salan 
-    occupation: Student
+    occupation: Administrator/Student
     contact: El Patron Salan#6684
     
     currently_learning:
